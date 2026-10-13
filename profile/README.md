@@ -22,4 +22,4 @@ Una facultad abierta de ciencias sociales analíticas y cuantitativas. Enseña a
 
 ## Quién está detrás
 
-La Nueva Somosaguas la impulsa y la mantiene Daniel ([@danielgccr](https://github.com/danielgccr)). Las correcciones, las refutaciones y las erratas son bienvenidas como *issues* o *pull requests* en el repositorio correspondiente.
+La Nueva Somosaguas la impulsa y la mantiene Daniel García ([@danielgccr](https://github.com/danielgccr)). Las correcciones, las refutaciones y las erratas son bienvenidas como *issues* o *pull requests* en el repositorio correspondiente.
